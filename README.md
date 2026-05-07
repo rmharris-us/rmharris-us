@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rebecca Harris
 
-<!--
-**rmharris-us/rmharris-us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Early-career Backend Developer focused on Java, Spring Boot, databases, APIs, and cloud technologies.
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- Spring Boot
+- SQL
+- REST APIs
+- AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Build scalable backend applications
+- Grow into backend and cloud engineering
+- Continue building real-world projects
+
+## Connect With Me
+LinkedIn: www.linkedin.com/in/rebecca-harris-us
